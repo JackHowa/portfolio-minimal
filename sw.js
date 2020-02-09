@@ -1,5 +1,5 @@
 importScripts("scripts/cache-polyfill.js");
-const LATEST_VERSION = "cache20191029";
+const LATEST_VERSION = "cache20200209";
 const CACHED_URLS = [
   "./",
   "styles/below-fold.css",
