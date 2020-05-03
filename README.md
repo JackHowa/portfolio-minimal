@@ -3,11 +3,6 @@ This website is for potential employers and peers. It's to show that I'm a softw
 
 This website is also for any one googling me. Since I've deleted my social media, thought this would be a helpful landing page.
 
-# Metrics 
-
-[![Lighthouse score: 100/100](https://lighthouse-badge.appspot.com/?score=100)](https://github.com/ebidel/lighthouse-badge)
-- For accessibility, best practices, and performance
-
 ## Requirements 
 
 ### v1
